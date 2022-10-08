@@ -9,7 +9,6 @@ About me:
 - 🤔 I’m looking to improve on infrastructure (Cloud) and programming skills (OOP and TDD).
 - 💬 Ask me about music, brazilian Jiu-Jitsu, weightLifting, cryptoCurrency, economics, history, philosophy, human behaviour and ethics. 
 - 📫 How to reach me: ImBerserkr@protonmail.com
-- ⚡ Fun fact: I am from Portugal but currently living in Brazil.
 
 
 
