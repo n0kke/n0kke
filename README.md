@@ -1,4 +1,4 @@
-### Hi there 👋 You may address me as Nokk3n
+### Hi there 👋 You may address me as n0kke
 
 About me:
 - 🎶 I play Guitar and Piano.
@@ -6,7 +6,7 @@ About me:
 - 🔭 I’m currently working on improving my infrastructure skills (Cloud and IaC)
 - 🌱 I’m currently learning Ansible, Terraform and Cloud. 
 - 👯 I’m looking to collaborate on projects that may have a positive impact in the world.
-- 🤔 I’m looking to improve on infrastructure (Cloud) and programming skills (OOP and TDD).
+- 🤔 I’m looking to improve on infrastructure (Cloud) and programming skills.
 - 💬 Ask me about music, brazilian Jiu-Jitsu, weightLifting, cryptoCurrency, economics, history, philosophy, human behaviour and ethics. 
 - 📫 How to reach me: ImBerserkr@protonmail.com
 
